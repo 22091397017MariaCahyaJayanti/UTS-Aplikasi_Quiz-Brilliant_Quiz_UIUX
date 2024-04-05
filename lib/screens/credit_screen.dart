@@ -27,7 +27,7 @@ class CreditScreen extends StatelessWidget {
               children: [
                 SizedBox(height: 20), // Mengatur jarak tinggi antar box credit item
                 CreditItem( // Item terdiri dari nama,nim,email,image dan warna kontainer
-                  name: 'Yunike Shandy Jholan Ninggar',
+                  name: 'Yunike Shandy Jholan N.',
                   nim: '22091397008',
                   email: 'yunikeshandy.22008@mhs.unesa.ac.id',
                   imagePath: 'images/yunikee.jpg',
@@ -108,7 +108,7 @@ class CreditItem extends StatelessWidget {
           Text(
             email, // Email anggota kelompok
             style: TextStyle(
-              fontSize: 15,
+              fontSize: 13,
               color: Colors.black,
             ),
           ),
@@ -116,7 +116,7 @@ class CreditItem extends StatelessWidget {
           Text(
             nim, // NIM anggota kelompok
             style: TextStyle(
-              fontSize: 15,
+              fontSize: 13,
               color: Colors.black,
             ),
           ),
