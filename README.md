@@ -1,8 +1,11 @@
-# quiz
+# Brilliant Quiz UI/UX
 
-A new Flutter project.
+## Kelompok 2
+22091397008 YUNIKE SHANDY JHOLAN NINGGAR
+22091397015 ANANDA MAYANG SEPTIA
+22091397015 MARIA CAHYA JAYANTI
 
-## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
