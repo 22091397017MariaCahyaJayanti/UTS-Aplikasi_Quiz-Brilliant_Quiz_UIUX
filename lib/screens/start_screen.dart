@@ -82,7 +82,8 @@ class StartScreen extends StatelessWidget {
               ),
             ),
             SizedBox(height: 25), // Jarak antara tombol mulai dan tombol Credit
-            ElevatedButton( // Mengatur fungsi dan desain tombol "Credit"
+            // Mengatur fungsi dan desain tombol "Credit"
+            ElevatedButton(
               onPressed: () {
                 // Navigasi ke CreditScreen ketika tombol "Credit" ditekan
                 Navigator.push(
